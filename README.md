@@ -4,4 +4,6 @@
 
 一，我的机器学习启蒙：
 作为一个安全工程师转向大数据挖掘领域其实有一道极其难以逾越的鸿沟就是数学基础薄弱。本书能够很好的用大白话从统计学、数据挖掘算法、实际应用案例带你入境，只有在理解了算法、数学公式背后的真实物理含义，才能够很好的进一步学习机器学习的实战。
-[白话大数据机器学习](https://github.com/hoozheng/ai-in-security/blob/master/res/pics/a9726469-1992-4b49-bb46-fa6696f5c7e0.png)
+
+<div align=center><img width="200" height="300" src="https://github.com/hoozheng/ai-in-security/blob/master/res/pics/a9726469-1992-4b49-bb46-fa6696f5c7e0.png"/></div>
+
