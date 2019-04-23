@@ -10,7 +10,7 @@
 8，信息、香农熵的计算 <br/> 
 
 
-机器学习 - 吴恩达笔记
-https://www.cnblogs.com/xing901022/p/9150180.html
-Data Mining for Cyber Security
-http://web.stanford.edu/class/cs259d/#info
+机器学习 - 吴恩达笔记  <br/>
+https://www.cnblogs.com/xing901022/p/9150180.html  <br/>
+Data Mining for Cyber Security  <br/>
+http://web.stanford.edu/class/cs259d/#info  <br/>
