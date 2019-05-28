@@ -14,3 +14,6 @@
 https://www.cnblogs.com/xing901022/p/9150180.html  <br/>
 Data Mining for Cyber Security  <br/>
 http://web.stanford.edu/class/cs259d/#info  <br/>
+
+数据科学家算法课程
+https://www.kdnuggets.com/2018/04/10-machine-learning-algorithms-data-scientist.html
