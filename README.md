@@ -16,4 +16,11 @@ Data Mining for Cyber Security  <br/>
 http://web.stanford.edu/class/cs259d/#info  <br/>
 
 数据科学家算法课程
-https://www.kdnuggets.com/2018/04/10-machine-learning-algorithms-data-scientist.html
+https://www.kdnuggets.com/2018/04/10-machine-learning-algorithms-data-scientist.html <br />
+
+数据科学与机器学习
+https://www.analyticsvidhya.com/blog/2018/03/top-5-github-repositories-february-2018/ <br />
+
+book.google.com
+
+https://learning.oreilly.com/home/
