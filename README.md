@@ -55,6 +55,9 @@ https://www.analyticsvidhya.com/blog/2018/12/key-breakthroughs-ai-ml-2018-trends
 
 现在，准备好去探索新的项目，并努力成为 2019 年的数据科学之星吧。
 
+
+
+工具篇 </br>
 ML.NET
 开源地址：https://github.com/dotnet/machinelearning
 
