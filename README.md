@@ -96,4 +96,31 @@ Papers with Code
 
 这就是需要用到「Papers with Code」的地方。如名称所示，它们对于在最近 6 年左右发布的重要论文都有代码实现。这一论文集网站令人兴奋，你会发现自己都忍不住赞叹它。它们甚至将在 NIPS (NeurIPS) 2018 中展示的论文代码也增加上去了。现在就去使用 Papers with Code 吧。
 
+自然语言处理（NLP）
+谷歌的 BERT
+开源地址：https://github.com/google-research/bert
+
+MatchZoo
+开源项目：https://github.com/NTMC-Community/MatchZoo
+
+NLP Progress
+开源地址：https://github.com/sebastianruder/NLP-progress
+
+自动的机器学习（AutoML）
+Auto Keras
+开源地址：https://github.com/jhfjhfj1/autokeras
+
+强化学习
+DeepMimic
+开源地址：https://github.com/xbpeng/DeepMimic
+
+Reinforcement Learning Notebooks
+开源地址：https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks
+
+中文原文：https://www.leiphone.com/news/201901/G09wwNYYejYbEvgM.html 
+
+英文原文：https://www.analyticsvidhya.com/blog/2018/12/best-data-science-machine-learning-projects-github/
+
+
+
 
